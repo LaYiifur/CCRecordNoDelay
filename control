@@ -1,0 +1,9 @@
+Package: com.layii.ccrnd
+Name: CCRecordNoDelay
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: 去除录屏延迟
+Maintainer: LaYii
+Author: LaYii
+Section: Tweaks
+Depends: 
